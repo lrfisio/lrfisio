@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea67d7e1.chunk.css",
-    "main.js": "/static/js/main.f45911bb.chunk.js",
-    "main.js.map": "/static/js/main.f45911bb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fbb07617.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fbb07617.js.map",
-    "static/js/2.b1cb1fe7.chunk.js": "/static/js/2.b1cb1fe7.chunk.js",
-    "static/js/2.b1cb1fe7.chunk.js.map": "/static/js/2.b1cb1fe7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fd24b12f204471aa3fb5e91b84cbd382.js": "/precache-manifest.fd24b12f204471aa3fb5e91b84cbd382.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ea67d7e1.chunk.css.map": "/static/css/main.ea67d7e1.chunk.css.map",
-    "static/js/2.b1cb1fe7.chunk.js.LICENSE.txt": "/static/js/2.b1cb1fe7.chunk.js.LICENSE.txt",
-    "static/media/avatar2.png": "/static/media/avatar2.235351a7.png",
-    "static/media/topo.png": "/static/media/topo.b6dd968c.png"
+    "main.css": "/lrfisio/static/css/main.ea67d7e1.chunk.css",
+    "main.js": "/lrfisio/static/js/main.f45911bb.chunk.js",
+    "main.js.map": "/lrfisio/static/js/main.f45911bb.chunk.js.map",
+    "runtime-main.js": "/lrfisio/static/js/runtime-main.b0a7c96f.js",
+    "runtime-main.js.map": "/lrfisio/static/js/runtime-main.b0a7c96f.js.map",
+    "static/js/2.b1cb1fe7.chunk.js": "/lrfisio/static/js/2.b1cb1fe7.chunk.js",
+    "static/js/2.b1cb1fe7.chunk.js.map": "/lrfisio/static/js/2.b1cb1fe7.chunk.js.map",
+    "index.html": "/lrfisio/index.html",
+    "precache-manifest.435360d58ad866123778bf1cd46d8e7c.js": "/lrfisio/precache-manifest.435360d58ad866123778bf1cd46d8e7c.js",
+    "service-worker.js": "/lrfisio/service-worker.js",
+    "static/css/main.ea67d7e1.chunk.css.map": "/lrfisio/static/css/main.ea67d7e1.chunk.css.map",
+    "static/js/2.b1cb1fe7.chunk.js.LICENSE.txt": "/lrfisio/static/js/2.b1cb1fe7.chunk.js.LICENSE.txt",
+    "static/media/avatar2.png": "/lrfisio/static/media/avatar2.235351a7.png",
+    "static/media/topo.png": "/lrfisio/static/media/topo.b6dd968c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbb07617.js",
+    "static/js/runtime-main.b0a7c96f.js",
     "static/js/2.b1cb1fe7.chunk.js",
     "static/css/main.ea67d7e1.chunk.css",
     "static/js/main.f45911bb.chunk.js"
